@@ -1,0 +1,13 @@
+# Dati binari e file di dump
+*.sql.bak
+*.sql.gz
+*.sql.zip
+
+# File di configurazione sensibili
+.env
+
+# Backup del database
+/backups/
+
+# Docker volumes
+db_data/
